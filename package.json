@@ -1,0 +1,9 @@
+{
+  "name": "sample-service",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
